@@ -1,4 +1,4 @@
-# WELCOME TO slippage snipping bot 
+# WELCOME TO Ethereum slippage sniper bot 
 
 ## How to start?
 
